@@ -1,0 +1,17 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Temporary test images (keeping dashboard)
+*.jpg
+*.jpeg
+*.png
+!training_dashboard.png
+
+# OS artifacts
+.DS_Store
+Thumbs.db
